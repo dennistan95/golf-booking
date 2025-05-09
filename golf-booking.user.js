@@ -6,8 +6,8 @@
 // @author       Dennis Tan
 // @match        https://gateway.keppelclub.com.sg/webclub*
 // @license      MIT
-// @downloadURL  https://raw.githubusercontent.com/dennistan95/golf-booking/refs/heads/main/golf-booking.js
-// @updateURL    https://raw.githubusercontent.com/dennistan95/golf-booking/refs/heads/main/golf-booking.js
+// @downloadURL  https://github.com/dennistan95/golf-booking/raw/main/golf-booking.user.js
+// @updateURL    https://github.com/dennistan95/golf-booking/raw/main/golf-booking.user.js
 // ==/UserScript==
 
 (function() {
