@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Golf Booking Script
 // @namespace    http://tampermonkey.net/
-// @version      2.12
+// @version      2.13
 // @description  Runs on golf booking page
 // @author       Dennis Tan
 // @match        https://gateway.keppelclub.com.sg/webclub*
@@ -13,7 +13,7 @@
 (function() {
     'use strict';
     // Define your target session date (e.g. 250516 for 2025 May 16)
-    const targetDate = 250516
+    const targetDate = 250521
 
     // Define your target session times; Can be multiple choices (format must match exactly. See examples below)
     // e.g. 'F08:4318' for First tee slot at 08:43, 18 holes
