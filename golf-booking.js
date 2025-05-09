@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Golf Booking Script
 // @namespace    http://tampermonkey.net/
-// @version      2.0
+// @version      2.1
 // @description  Runs on golf booking page
 // @author       Dennis Tan
 // @match        https://gateway.keppelclub.com.sg/webclub*
