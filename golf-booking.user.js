@@ -13,7 +13,7 @@
 (function() {
     'use strict';
     // Define your target session date (e.g. 250516 for 2025 May 16)
-    const targetDate = 250512
+    const targetDate = 250515
 
     // Define your target session times; Can be multiple choices (format must match exactly. See examples below)
     // e.g. 'F08:4318' for First tee slot at 08:43, 18 holes
